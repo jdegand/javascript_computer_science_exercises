@@ -1,0 +1,69 @@
+# [JavaScript Computer Science Exercises](https://github.com/rithmschool/javascript_computer_science_exercises)
+
+- [Recursion Exercise](./recursion_exercise)
+- [Searching Algorithms Exercises](./searching_algorithms_exercise)
+- [Sorting Algorithms Exercises](./sorting_algorithms_exercise)
+- [Singly Linked Lists Exercises](./singly_linked_lists_exercise)
+- [Doubly Linked Lists Exercises](./doubly_linked_lists_exercise)
+- [Stacks Exercises](./stacks_exercise)
+- [Queues Exercises](./queues_exercise)
+- [Binary Search Trees Exercises](./binary_search_trees_exercise)
+- [Binary Heaps Exercises](./binary_heaps_exercise)
+- [Hash Tables Exercises](./hash_tables_exercise)
+- [Graphs Exercises](./graphs_exercise)
+
+## Useful Resources
+
+- [Dev.to](https://dev.to/alisabaj/searching-through-a-nested-object-using-recursion-regular-expressions-and-sets-bm7) - object recursion
+- [Programiz](https://www.programiz.com/javascript/recursion) - recursion
+- [Stack Overflow](https://stackoverflow.com/questions/63699589/can-i-use-additional-parameters-in-recursion-problems) - additional parameters in recursion problems
+- [Stack Overflow](https://stackoverflow.com/questions/15690706/recursively-looping-through-an-object-to-build-a-property-list) - recursively looping through an object to build a propert list
+- [YouTube](https://www.youtube.com/watch?v=pnPeVzZ2Dbo) - object recursion
+- [YouTube](https://www.youtube.com/watch?v=V7MqysFeTlg) - check if value exists in an array - iterative vs recursive 
+- [Stack Overflow](https://stackoverflow.com/questions/63642910/return-correct-value-from-recursive-indexof) - recursive indexof
+- [TutsPlus](https://code.tutsplus.com/articles/the-best-way-to-deep-copy-an-object-in-javascript--cms-39655) - best way to deep copy an object
+- [Medium](https://medium.com/swlh/how-to-write-an-iterative-binary-search-algorithm-in-javascript-4feddd8566b) - iterative binary search
+- [Flexiple](https://flexiple.com/javascript/bubble-sort-javascript/) - bubble sort
+- [Stack Abuse](https://stackabuse.com/selection-sort-in-javascript/) - selection sort
+- [Stack Abuse](https://stackabuse.com/insertion-sort-in-javascript/) - insertion sort
+- [Guru99](https://www.guru99.com/quicksort-in-javascript.html) - quick sort
+- [W3 Resource](https://www.w3resource.com/javascript-exercises/searching-and-sorting-algorithm/searching-and-sorting-algorithm-exercise-1.php) - quick sort
+- [Doable Danny](https://www.doabledanny.com/quick-sort-in-javascript#4) - quick sort
+- [YouTube](https://www.youtube.com/watch?v=P6XGSKO2RzI) - quick sort implementation
+- [Stack Overflow](https://stackoverflow.com/questions/5915096/get-a-random-item-from-a-javascript-array) - random item from array
+- [Geeks for Geeks](https://www.geeksforgeeks.org/quicksort-using-random-pivoting/) - quick sort with random pivoting
+- [YouTube](https://www.youtube.com/watch?v=S1qHWjP1hb0) - simple quick sort
+- [Replit](https://replit.com/@Codevolution/JavaScript-Data-Structures#index.js?utm_source=YouTube&amp;utm_medium=influencer_ads&amp;utm_campaign=YT_SEO&amp;utm_term=&amp;utm_content=Code_Evolution) - Codevolution Data Structures
+- [Stack Overflow](https://stackoverflow.com/questions/71656068/inserting-element-into-specific-index-in-a-linked-list-javascript) - linked list insertion
+- [Blog](https://blog.devgenius.io/javascript-linked-lists-remove-or-insert-node-with-provided-index-4b4b5469bab4) - linked lists remove/insert
+- [YouTube](https://www.youtube.com/watch?v=f9SKov7K8Ic&list=PLeLwVYBodOL3tc2vdCQWhJ28iLyabQ063) - Linked List & Doubly Linked List 
+- [Coding Ninjas](https://www.codingninjas.com/codestudio/library/insert-a-node-in-binary-search-tree-iteratively) - iteratively insert a node in bst
+- [Geeks for Geeks](https://www.geeksforgeeks.org/insert-a-node-in-binary-search-tree-iteratively/) - iteratively insert a node in bst
+- [YouTube](https://www.youtube.com/watch?v=DpFSbak0Fvw) - bst insert iterative
+- [Stack Overflow](https://stackoverflow.com/questions/68053063/javascript-pushing-binary-tree-values-into-an-array-using-the-recursion-method) - recursion with bst
+- [Stack Overflow](https://stackoverflow.com/questions/39054253/display-binary-search-tree-traversal-on-javascript-recursive-way) - bst traversal w/ recursion
+- [Stack Overflow](https://stackoverflow.com/questions/68053063/javascript-pushing-binary-tree-values-into-an-array-using-the-recursion-method) - pushing bst values into an array using recursion 
+- [YouTube](https://www.youtube.com/watch?v=dM_JHpfFITs) - binary heap
+- [Eloquent JavaScript](https://eloquentjavascript.net/1st_edition/appendix2.html) - binary heaps
+- [Blog](https://blog.devgenius.io/how-to-implement-a-binary-heap-javascript-d3a0c54112fa) - binary heap
+- [Blog](https://javascript.plainenglish.io/how-to-create-a-binary-heap-in-javascript-e1e6f6446ff9) - binary heap
+- [Geeks for Geeks](https://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/) - check if a given array is a binary heap
+- [Educative](https://www.educative.io/answers/how-to-build-a-heap-from-an-array) - build a heap from an array
+- [Geeks for Geeks](https://www.geeksforgeeks.org/building-heap-from-array/) - build a heap from an array
+- [Stack Abuse](https://stackabuse.com/how-to-check-if-key-exists-in-javascript-object-array/) - check if key exists in an object array
+- [log2base2](https://www.log2base2.com/algorithms/searching/linear-probing-hash-table.html) - linear probing
+- [Jared Nielsen](https://jarednielsen.com/data-structure-hash-table-linear-probing/) - linear probing
+- [TutorialsPoint](https://www.tutorialspoint.com/Breadth-first-search-traversal-in-Javascript) - breadth first search graph
+- [TutorialsPoint](https://www.tutorialspoint.com/Depth-first-search-traversal-in-Javascript) - depth first search
+- [Blog](https://levelup.gitconnected.com/finding-the-shortest-path-in-javascript-dijkstras-algorithm-8d16451eea34) - dijkstra
+- [Github](https://github.com/CrazyReborn/hamilton-canvas) - Algorithm Visualizer JS
+- [AlgoDaily](https://algodaily.com/lessons/an-illustrated-guide-to-dijkstras-algorithm/javascript) - illustrated guide to dijkstra
+- [FreeCodeCamp](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/) - intro to dijkstra
+- [Github](https://gist.github.com/Prottoy2938/66849e04b0bac459606059f5f9f3aa1a) - dijkstra gist
+- [Blog](https://www.ofcodeandcolor.com/2016/05/08/graph-search-in-javascript/) - graph search
+- [HackerNoon](https://hackernoon.com/how-to-implement-dijkstras-algorithm-in-javascript-abdfd1702d04) - dijkstra
+- [Codepen](https://codepen.io/jei/pen/JjPRLjV) - a*
+- [Algorithms and Techologies](https://www.algorithms-and-technologies.com/dijkstra/javascript) - adjacency matrix dijkstra
+- [Dev.to](https://dev.to/maikomiyazaki/completed-javascript-data-structure-course-and-here-is-what-i-learned-about-graph-dijkstra-algorithm-57n8) - dijkstra
+- [Code Underscored](https://www.codeunderscored.com/dijkstras-algorithm-in-javascript/) - dijkstra
+- [Medium](https://medium.com/swlh/simplifying-big-o-expressions-4f7c6059d3d5) - Simplifying big o expessions
